@@ -1,0 +1,35 @@
+.container-fluid{
+    background-color: rgb(247, 226, 215);
+    padding: 100px;
+}
+.imgleft{
+    float: left;
+    padding-right: 20px;
+}
+img{
+    width: 100%;
+    background-size: cover;
+}
+.imgright{
+    float: right;
+    padding-left: 20px;
+}
+.reviewone{
+    margin-top:50px;
+}
+h1{
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 10px;
+    animation-duration: 1.5s;
+}
+.left{
+    text-align: left;
+}
+.right{
+    text-align: right;
+}
+.anim{
+    animation-delay: 1.5s;
+    animation-duration: 2s;
+}

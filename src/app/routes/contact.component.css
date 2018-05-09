@@ -1,0 +1,16 @@
+
+.container-fluid{
+    font: 'helmetregular', arial;
+    background-color: white;
+    color: black;
+    padding: 100px;
+}
+.row{
+    margin-top: 80px;
+    animation-delay: 1s;
+    animation-duration: 2s;
+
+}
+.fa{
+    color: blue;
+}

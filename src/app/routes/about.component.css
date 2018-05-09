@@ -1,0 +1,44 @@
+
+.container-fluid{
+    font-family: 'helmetregular', arial; 
+    /* background-color: #94618E; */
+    color: black;
+    padding: 100px;
+}
+h1{
+    font-family: 'helmetregular', arial;
+    text-align: center;
+    PADDING: 20px;
+}
+.span4{
+    position: relative;
+}
+.img-rounded{
+    width: 350px;               
+    /* transform: rotate(90deg); */
+    object-fit: cover;
+    float: left;
+    padding-right: 20px;
+    animation-duration: 2s;
+}
+.img{
+    animation-duration: 3s;
+    animation-delay: 1s;
+    padding-bottom: 20px;
+}
+ 
+p, h5{
+    text-align: left;
+    padding-top: 10px;
+}
+.aboutcomp{
+    padding-top: 10px;
+}
+.aboutanim{
+    animation-duration: 2s;
+    animation-delay: 1.5s;
+}
+.aboutheader{
+    animation-duration: 2s;
+    animation-delay: 0.25s;
+}

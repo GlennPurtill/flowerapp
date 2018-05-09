@@ -1,0 +1,42 @@
+
+.container-fluid{
+    font-family: 'helmetregular', arial;
+    color: black;
+    padding: 100px;
+    /* background: linear-gradient(
+        rgba(20,20,20, .6), 
+        rgba(20,20,20, .6)), 
+        url("../../assets/images/exotic-flora.jpg"); */
+}
+.card{
+    background: transparent;
+    border: 0;
+}
+h1{
+    text-align: center;
+   padding-top: 20px;
+}
+.box1{
+    animation-delay: 0.5s;
+}
+.box2{
+    animation-delay: 1s;
+}
+.box3{
+    animation-delay: 1.5s;
+}
+.box4{
+    animation-delay: 2s;
+}
+.box5{
+    animation-delay: 2.5s;
+}
+.box6{
+    animation-delay: 3s;
+}
+.box7{
+    animation-delay: 3.5s;
+}
+.box8{
+    animation-delay: 4s;
+}

@@ -1,0 +1,63 @@
+
+/* #008f95 */
+.container-fluid {
+    background-color: rgb(255, 222, 205);
+    color: white;
+    padding: 100px;
+   
+}
+
+h1{
+   text-align: center;
+   padding: 20px;
+}
+h3{
+    text-align: center;
+    padding: 20px;
+}
+
+
+/* .tz-gallery {
+    padding: 40px;
+}
+
+/* Override bootstrap column paddings 
+.tz-gallery .row > div {
+    padding: 10px;
+}
+
+.tz-gallery .lightbox img {
+    width: 100%;
+    border-radius: 0;
+}
+
+.bokay{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.img{
+   
+    animation-delay: 1s;
+    animation-duration: 1.5s;
+    transition: transform .2s;
+    transition-duration: 1s;
+}
+
+.img:hover {
+    transform: scale(1.1); 
+}
+
+ */
+ img{
+     width:100%;
+     
+ }
+ .img{
+     animation-delay: 1s;
+     animation-duration: 2s;
+ }
+ .row > div {
+    padding:2px;
+ }
